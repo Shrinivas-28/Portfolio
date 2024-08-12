@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50068440.css",
+    "main.js": "/static/js/main.27871b03.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/industrial_traing.jpg": "/static/media/industrial_traing.c6287503f8e97db6a866.jpg",
+    "static/media/python.pdf": "/static/media/python.9d875727d289afe6ab73.pdf",
+    "static/media/cybersecuritywork.pdf": "/static/media/cybersecuritywork.aa36109f785d73e54b9c.pdf",
+    "static/media/CYBERSECURITY.pdf": "/static/media/CYBERSECURITY.9828ec13da6f39805c54.pdf",
+    "static/media/YessInfotechCourse.pdf": "/static/media/YessInfotechCourse.e3f8e2c9d13529d8270b.pdf",
+    "static/media/blind_assistant.jpg": "/static/media/blind_assistant.afa2ca1e233d2bc2bc7f.jpg",
+    "static/media/salon_management.jpg": "/static/media/salon_management.0b6d448b1a19eb7a246c.jpg",
+    "static/media/movie_recommendation.avif": "/static/media/movie_recommendation.fce5b95ef976fe0924f5.avif",
+    "index.html": "/index.html",
+    "main.50068440.css.map": "/static/css/main.50068440.css.map",
+    "main.27871b03.js.map": "/static/js/main.27871b03.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50068440.css",
+    "static/js/main.27871b03.js"
+  ]
+}
